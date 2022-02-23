@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "VTU SGPA CALCULATOR",
+    "icon": "./assets/app_icon.png",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.santan.sgpacalculator",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.santan.sgpacalculator",
+      "versionCode": 1
+    }
+  }
+}
